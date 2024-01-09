@@ -1,4 +1,4 @@
-## [[Research]](/sample_page)
+## [Research](/sample_page)
 
 ---
 
