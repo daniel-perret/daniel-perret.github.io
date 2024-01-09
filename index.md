@@ -1,4 +1,14 @@
-## Portfolio
+## [Current Research Projects]
+
+## [CV]
+
+---
+
+## News
+
+### January 2024
+
+Happy New Year! *more about my paper*
 
 ---
 
