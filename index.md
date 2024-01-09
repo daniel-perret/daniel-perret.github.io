@@ -1,4 +1,6 @@
-## [Research](/sample_page)
+## [Research](/pages/research)
+## [CV](/pdf/dperret_cv.pdf)
+## [Background](/pages/background)
 
 ---
 
@@ -12,7 +14,7 @@ Happy New Year! *more about my paper*
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/pages/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
