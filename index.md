@@ -1,6 +1,4 @@
-## [Current Research Projects]
-
-## [CV]
+## [[Research]](/sample_page)
 
 ---
 
