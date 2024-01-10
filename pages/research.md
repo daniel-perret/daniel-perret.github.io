@@ -1,6 +1,6 @@
-## Research
+# Research
 
-In general terms, my work seeks to understand and predict the dramatic ways that human actions are altering the planet's ecology, with the goal of improving conservation and management outcomes. My current research leverages large-scale forest inventory data, tree-ring records, non-native species' distributions, and ecological niche theory to investigate the future of western North AMerican forests in light of changing climatic and disturbance regimes.
+In general terms, my work seeks to understand and predict the dramatic ways that human actions are altering the planet's ecology, with the goal of improving conservation and management outcomes. My current research leverages large-scale forest inventory data, tree-ring records, non-native species' distributions, and ecological niche theory to investigate the future of western North American forests in light of changing climatic and disturbance regimes.
 
 An up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en).
 
@@ -20,6 +20,8 @@ Using data from the USFS Forest Inventory and Analysis database, we've been inve
 
 ## Space versus time in ecological forecasting
 
+<img src="../images/fig1_112223_imagefile.png?raw=true"/>
+
 As part of my doctoral research, I collected a  new network of tree-ring data that span the climatic niche of ponderosa pine. Together with Prof. Margaret Evans at the University of Arizona and Prof. Dov Sax at Brown University, we used these data to demonstrate that the growth response of ponderosa pine to spatial climatic variation is not predictive of the species' response to climate change. In fact, the space-for-time substitution that is so common in ecological forecasting generates predictions that are directionally opposed to observed responses to recent warming. These spatial-temporal mismatches may be quite common across species, systems, and biomes, and I would love to continue exploring this in the future.
 
 **Publications**
@@ -34,35 +36,24 @@ As part of my doctoral research, I collected a  new network of tree-ring data th
 
 [Arizona Public Media](https://news.azpm.org/p/azpmnews/2024/1/2/218603-ua-scientists-uncover-methodology-problem-in-climate-research)
 
+<img src="../images/field_pic5.jpg?raw=true"/>
+
 ---
 
-## 
+## Non-native species as natural global change experiments
 
+<img src="../images/herbarium_image.png?raw=true"/>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+When species become naturalized beyond their native range, we can gain all sorts of insight into what kinds of climatic, physical, and biotic conditions they can thrive under. Using these natural global change "experiments", we can estimate the size of species' fundamental climate niches and make predictions about which species are at risk and where.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Publications**
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+[K Rosenblad, DL Perret, DF Sax. 2019. Niche syndromes reveal climate-driven extinction threat to island endemic conifers. Nature Climate Change.](https://www.nature.com/articles/s41558-019-0530-9)
 
-### 2. Assess assumptions on which statistical inference will be based
+[DL Perret, AB Leslie, DF Sax. 2019. Naturalized distributions show that climatic disequilibrium is structured by niche size in pines. Global Ecology & Biogeography.](https://onlinelibrary.wiley.com/doi/10.1111/geb.12862)
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+---
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="../images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+---
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
