@@ -1,6 +1,6 @@
 # Background
 
-<img src="../images/IMG_8642.jpg?raw=true"/>
+<img src="../images/IMG_8642clip.jpg?raw=true"/>
 
 I'm an ORISE Postdoctoral Research Fellow with the US Forest Service Pacific Northwest Research Station. I'm an ecologist and biogeographer, and although my current research focuses on trees, I've worked with species ranging from wolves to sage grouse to mountain beavers. I'm always excited to learn about new systems and cool critters!
 
