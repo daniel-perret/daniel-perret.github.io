@@ -1,31 +1,10 @@
-## This can be your internal website page / project page
+# Background
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="../images/IMG_8642.jpg?raw=true"/>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+I'm an ORISE Postdoctoral Research Fellow with the US Forest Service Pacific Northwest Research Station. I'm an ecologist and biogeographer, and although my current research focuses on trees, I've worked with species ranging from wolves to sage grouse to mountain beavers. I'm always excited to learn about new systems and cool critters!
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Outside of science, I really enjoy interacting with the physical landscape around our home in Missoula, MT. My favorite ways to do this are mountain biking, backcountry skiing, whitewater kayaking, and trail running. These are best enjoyed with my awesome wife and kick-ass wildlife biologist [Molly McDevitt](https://www.umt.edu/environment/personnel/grads.php?ID=5830) and our sweet doggo Barley. I also make music, and you might be able to catch me playing bluegrass and swing mandolin around western Montana with [Spruce Alley Sally](https://sprucealleysally.wixsite.com/mysite). 
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="../images/fairy1.jpg?raw=true"/>
