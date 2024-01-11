@@ -2,7 +2,7 @@
 
 In general terms, my work seeks to understand and predict the dramatic ways that human actions are altering the planet's ecology, with the goal of improving conservation and management outcomes. My current research leverages large-scale forest inventory data, tree-ring records, non-native species' distributions, and ecological niche theory to investigate the future of western North American forests in light of changing climatic and disturbance regimes.
 
-An up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en).
+Up-to-date lists of my publications can be found on [Google Scholar ](https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Daniel-Perret). Please don't hesitate to reach out if you're having trouble accessing any articles!
 
 ---
 
@@ -23,6 +23,8 @@ Using data from the USFS Forest Inventory and Analysis database, we've been inve
 <img src="../images/fig1_112223_imagefile.png?raw=true"/>
 
 As part of my doctoral research, I collected a  new network of tree-ring data that span the climatic niche of ponderosa pine. Together with Prof. Margaret Evans at the University of Arizona and Prof. Dov Sax at Brown University, we used these data to demonstrate that the growth response of ponderosa pine to spatial climatic variation is not predictive of the species' response to climate change. In fact, the space-for-time substitution that is so common in ecological forecasting generates predictions that are directionally opposed to observed responses to recent warming. These spatial-temporal mismatches may be quite common across species, systems, and biomes, and I would love to continue exploring this in the future.
+
+Prof. Amy Angert (UBC) wrote a great commentary piece about this work that you can read [here.](https://www.pnas.org/doi/10.1073/pnas.2320424121)
 
 **Publications**
 
