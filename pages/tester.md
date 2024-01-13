@@ -1,5 +1,6 @@
 # formatting test section
 
+<div markdown="1">
 <details>
   <summary> what </summary>
 
@@ -9,8 +10,8 @@
 
 **formatting** *formatting*
 
-
-
+</details>
+</div>
 
 # Teaching & Outreach
 
