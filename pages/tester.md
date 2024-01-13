@@ -13,6 +13,13 @@
 </details>
 </div>
 
+## Test {.tabset .tabset-pills}
+### --
+### expand
+
+*woah*
+
+
 # Teaching & Outreach
 
 In general, I believe we learn best by doing. When I'm teaching, I strive to create a mutually supportive, respectful, and empathetic environment where students and mentees feel empowered to try new things, make mistakes, and learn in the process. I've taught in this way in the classroom, in the lab, and in the field, and look forward to building more experiential, collaborative, and engaging programs in the future. Some details and examples of past teaching and outreach are below.
