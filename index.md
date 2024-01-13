@@ -5,17 +5,6 @@
 
 ---
 
-<details>
-
-<summary> This is a test </summary>
-
-# big header
-
-This is a test. *This is a test*. **This is a test**.
-
-</details>
-
-
 ## News & Updates
 
 ### December 2023
