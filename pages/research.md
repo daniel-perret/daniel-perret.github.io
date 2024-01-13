@@ -4,6 +4,8 @@ In general terms, my work seeks to understand and predict the dramatic ways that
 
 Up-to-date lists of my publications can be found on [Google Scholar ](https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Daniel-Perret). Please don't hesitate to reach out if you're having trouble accessing any articles!
 
+The sections below give a brief overview of some current and past research themes.
+
 ---
 
 ## Climate and disturbance impacts on subalpine forests
@@ -42,7 +44,11 @@ Prof. Amy Angert (UBC) wrote a great commentary piece about this work that you c
 
 ---
 
-## Non-native species as natural global change experiments
+## Dendroecology of wilding pines in New Zealand
+
+---
+
+## Non-native species as global change experiments
 
 <img src="../images/herbarium_image.png?raw=true"/>
 
