@@ -9,7 +9,6 @@
 
 **formatting** *formatting*
 
-</details>
 
 
 
