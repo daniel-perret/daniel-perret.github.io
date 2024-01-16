@@ -35,6 +35,9 @@ In 2022, US Forest Service Aerial Detection Survey (ADS) flights found massive a
 <img src="../images/abla2.jpg?raw=true"/>
 <figcaption>Subalpine fir mortality on Bitterroot NF in Montana</figcaption>
 </figure>
+
+[*return to top*](#top)
+
 ---
 
 ## Space versus time in ecological forecasting {#pipo}
