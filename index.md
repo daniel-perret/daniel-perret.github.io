@@ -7,6 +7,10 @@
 
 ## News & Updates
 
+### 16 January 2024
+
+Prof. Amy Angert at the University of British Columbia wrote an awesome commentary piece about our ponderosa paper that just came out [here](https://www.pnas.org/doi/10.1073/pnas.2320424121), titled *"The space-for-time gambit fails a robust test"*. She does a really great job contextualizing our findings and discussing some of the eco-evolutionary mechanisms that may underlie them. I'm a huge fan of her work in general, and thrilled that she found this work compelling.
+
 ### December 2023
 
 It's finally out! Beyond excited that my final dissertation chapter is over the finish line and out in the world. Check it out [here](https://www.pnas.org/doi/10.1073/pnas.2304404120) in PNAS. It's wild to think that the data in this paper were collected almost five and a half years ago. Hopefully this paper helps moves the climate change biogeography field away from simple space-for-time substitution, and toward a more nuanced, temporally-informed approach... still lots of work to do to get there!

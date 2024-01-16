@@ -1,10 +1,12 @@
 # Research {#top}
 
+The blurbs below give a brief overview of some current and past research projects.
+
 In general terms, my work seeks to understand and predict the dramatic ways that human actions are altering the planet's ecology, with the goal of improving conservation and management outcomes. My current research leverages large-scale forest inventory data, tree-ring records, non-native species' distributions, and ecological niche theory to investigate the future of western North American forests in light of changing climatic and disturbance regimes.
 
 Up-to-date lists of my publications can be found on [Google Scholar ](https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Daniel-Perret). Please don't hesitate to reach out if you're having trouble accessing any articles!
 
-The sections below give a brief overview of some current and past research themes:
+### Contents
 
 - [Climate and disturbance impacts on subalpine forests](#abla)
 - [Large-scale forest mortality detection and attribution](#ppp)
