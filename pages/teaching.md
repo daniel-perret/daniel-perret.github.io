@@ -27,7 +27,7 @@ The workshop was paired with an organized talk session that highlighted new and 
 
 ## Guest lectures
 
-**Biol1470, Conservation Biology**,*Brown University*
+**Biol1470, Conservation Biology**, *Brown University*
 
 - *Wildlife Management*, Fall 2021 
 - *Wildlife Management*, Fall 2020 
@@ -37,6 +37,18 @@ The workshop was paired with an organized talk session that highlighted new and 
 **Bio 42, Ecology**, *Brown University* 
 
 - *Dendroecology* (field and classroom), Spring 2019
+
+[*return to top*](#top)
+
+---
+
+## Teaching assistantships
+
+**Conservation Biology (Biol 1470)**, *Brown University*
+Teaching assistant, Fall 2020
+
+**Conservation Biology (Biol 1470)**, *Brown University*
+Teaching assistant, Fall 2017
 
 [*return to top*](#top)
 
@@ -57,18 +69,6 @@ I've had numerous opportunities to mentor and train undergraduate researchers, b
 <img src="../images/lab_teaching.jpg?raw=true"/>
 <figcaption>Teaching dendro lab skills to undergraduates</figcaption>
 </figure>
-
-[*return to top*](#top)
-
----
-
-## Teaching assistantships
-
-**Conservation Biology (Biol 1470)**, *Brown University*
-Teaching assistant, Fall 2020
-
-**Conservation Biology (Biol 1470)**, *Brown University*
-Teaching assistant, Fall 2017
 
 [*return to top*](#top)
 
