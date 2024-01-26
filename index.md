@@ -1,6 +1,6 @@
-## [About Me](/pages/background)
 ## [Research](/pages/research)
 ## [Teaching & Outreach](/pages/teaching)
+## [About Me](/pages/background)
 ## [CV](/pdf/dperret_cv.pdf)
 
 ---
