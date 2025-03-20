@@ -7,6 +7,24 @@
 
 ## News & Updates
 
+### 20 March 2025
+
+Feeling very grateful to have had the opportunity to help out in the field on [this project led by Michelle Kissling and Molly McDevitt](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.1575). Working in Kakagrak National Monument out in NW Alaska was an unbelievable experience full of learning and beauty. Here's just a taste:
+
+<img src="/images/AK2.jpg?raw=true"/>
+
+<img src="/images/AK1.jpg?raw=true"/>
+
+<img src="/images/AK3.jpg?raw=true"/>
+
+### 11 March 2025
+
+Long-overdue update! Several exciting things to report. First, our paper published [last year in PNAS](https://www.pnas.org/doi/full/10.1073/pnas.2304404120) was selected as a Finalist for the [2024 Cozzarelli Prize](https://www.nasonline.org/news/2024-cozzarelli-recipients/) from the National Academy of Sciences. Really pleased to have had this awesome collaboration with Margaret Evans (UArizona) and Dov Sax (Brown U) recognized in this way!
+
+Second, a paper coauthored with Dave Bell and Harold Zald from the USFS Pacific Northwest Research Station came out in Global Change Biology early last month. In this study, titled *"Reducing fire severity and extent bolsters subalpine forest resilience to global change through key demographic pathways"*, we present a framework for bridging from the demographic responses of individual trees and populations to ecosystem-level reorganization trajectories. We build on the excellent framework proposed by Seidl & Turner (2022) to demonstrate that fire disturbance is projected to have a much larger impact on the probability of subalpine forest resilience than climate change alone. [Check it out here](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70052). There's also a great commentary about the paper written by Xiangyi Li and Hui Yang, [available here](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70107). I particularly like their graphical abstract (from Li & Yang 2025):
+
+<img src="/images/liyang_graphical.jpg?raw=true"/>
+
 ### 16 January 2024
 
 Prof. Amy Angert at the University of British Columbia wrote an awesome commentary piece about our ponderosa paper that just came out [here](https://www.pnas.org/doi/10.1073/pnas.2320424121), titled *"The space-for-time gambit fails a robust test"*. She does a really great job contextualizing our findings and discussing some of the eco-evolutionary mechanisms that may underlie them. I'm a huge fan of her work in general, and thrilled that she found this work compelling.

@@ -17,11 +17,14 @@ Up-to-date lists of my publications can be found on [Google Scholar ](https://sc
 
 ## Climate and disturbance impacts on subalpine forests {#abla}
 
-<img src="../images/comm_mort_revision.png?raw=true"/>
+<img src="../images/graphical_abstract.png?raw=true"/>
 
-Using data from the USFS Forest Inventory and Analysis database, we've been investigating how climate change and changing forest disturbance regimes are impacting subalpine forest systems across the western US. We recently published the a range-wide assessment of population status and trends for subalpine fir (*Abies lasiocarpa*), and shared the tools and workflows we developed in the process during a workshop at the 2023 ESA meeting in Portland, OR. We're now exploring interspecific variation in the demographic impacts of climate and disturbance, with an eye toward processes of community assembly/disassembly. Stay tuned!
+Using data from the USFS Forest Inventory and Analysis database, we've been investigating how climate change and changing forest disturbance regimes are impacting subalpine forest systems across the western US. Building off of the first range-wide assessment of subalpine fir status and trends, as well as work by Seidl & Turner (2022), we proposed a new framework for linking from individual tree responses to climate and disturbance through to ecosystem-level reorganization and resilience trajectories. The punchline is that fire disturbance has a far larger projected impact on subalpine forest resilience than climate change alone -- which presents interesting management opportunities in high-impact landscapes. 
+
 
 **Publications**
+
+[DL Perret, DM Bell, & HSJ Zald, 2025. Reducing fire severity and extent bolsters  subalpine forest resilience to global change through key demographic pathways. Global Change Biology.](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70052)
 
 [DL Perret, DM Bell, AN Gray, JD Shaw, & HSJ Zald, 2023. Range-wide population assessments for subalpine fir indicate widespread disturbance-driven decline. Forest Ecology & Management.](https://www.sciencedirect.com/science/article/pii/S0378112723003626?via%3Dihub)
 
