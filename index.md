@@ -7,6 +7,9 @@
 
 ## News & Updates
 
+### February 2026
+I just began a new position with The Nature Conservancy, working out of the North America Region Conservation & Applied Science Team. I'll mostly be working with TNC and USFS scientists on projects related to wildfire smoke emissions and associated human health impacts - stay tuned!
+
 ### 20 March 2025
 
 Feeling very grateful to have had the opportunity to help out in the field on [this project led by Michelle Kissling and Molly McDevitt](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.1575). Working in Kakagrak National Monument out in NW Alaska was an unbelievable experience full of learning and beauty. Here's just a taste:

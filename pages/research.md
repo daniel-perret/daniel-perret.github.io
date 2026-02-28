@@ -55,6 +55,8 @@ Prof. Amy Angert (UBC) wrote a great commentary piece about this work that you c
 
 **Publications**
 
+[Evans, M.E.K., Adler, P.B., Angert, A.L., Dey, S.M.N., Girardin, M.P., Heilman, K.A., Klesse, S., Perret, D.L., Sax, D.F., Sheth, S.N., Stemkovski, M., Williams, J.L., 2025 Reconsidering space-for-time substitution in climate change ecology. Nature Climate Change](https://doi.org/10.1038/s41558-025-02392-0)
+
 [DL Perret, MEK Evans, & DF Sax. 2023. A species' response to spatial climatic variation does not predict its response to climate change. Proceedings of the National Academy of Science.](https://www.pnas.org/doi/10.1073/pnas.2304404120)
 
 [DL Perret & DF Sax. 2021. Evaluating alternative study designs for optimal sampling of species' climatic niches. Ecography.](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.06014)

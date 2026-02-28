@@ -76,8 +76,9 @@ I've had numerous opportunities to mentor and train undergraduate researchers, b
 
 ## Other
 
+I had a chance to talk trees and biogeography with Montana Public Radio's "The Big Why" podcast, where listeners pose questions that they've always wondered about but never puzzled out. [Check it out here!](https://www.mtpr.org/montana-news/2025-07-16/mountain-face-off-how-trees-choose-sides) 
 
-Here's a fun video put together about a grizzly bear encounter we had while doing wildlife fieldwork in Yellowstone National Park. This video is being used in visitor centers, staff trainings, and other contexts to help teach about bear spray use and preparedness:
+And here's a fun video put together about a grizzly bear encounter we had while doing wildlife fieldwork in Yellowstone National Park. This video is being used in visitor centers, staff trainings, and other contexts to help teach about bear spray use and preparedness:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGtrhatX8LA?si=i3M-hZieaVkrllJr" data-external= "1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
