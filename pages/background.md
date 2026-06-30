@@ -28,7 +28,7 @@ layout: default
 <hr style="margin: 3rem 0;">
 
 <div class="card" style="background-color: var(--bg-light); border: none;">
-  <div class="card-body">
+  <div class="card-body text-center">
     <h4 class="text-primary mb-3">Get in Touch</h4>
     <p class="card-text">
       <strong>Email:</strong> <a href="mailto:daniel.perret@tnc.org">daniel.perret@tnc.org</a>
