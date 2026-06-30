@@ -15,10 +15,10 @@ layout: default
       <div class="card-body">
         <h3 class="card-title">Professional Background</h3>
         <p class="card-text">
-          I'm a Forest Spatial Scientist with The Nature Conservancy, working out of Missoula, Montana. I'm an ecologist and biogeographer by training, and although my current research focuses on trees, I've worked with species ranging from wolves to sage grouse to mountain beavers. I'm always excited to learn about new systems and cool critters!
+          I'm a Forest Spatial Scientist with The Nature Conservancy, living and working in Missoula, Montana. I'm an ecologist and biogeographer by training, and although my current research focuses on trees, I've worked with species ranging from wolves to sage grouse to mountain beavers. I'm always excited to learn about new systems and cool critters!
         </p>
         <p class="card-text">
-          My PhD research (completed at Brown University) focused on using tree-ring data and ecological niche theory to understand how species respond to climate change. I've held positions with the University of Arizona, the USFS Pacific Northwest Research Station, and the Vermont Agency of Natural Resources, gaining diverse field and analytical experience across different ecosystems and management contexts.
+          My PhD research focused on using tree-ring data and ecological niche theory to understand how species respond to climate change. I've since worked with federal, academic, and non-profit partners on some of the most pressing issues facing forest conservation and management in the western US and globally. I'm always interested in having conversations about conservation, so please reach out if you want to chat or collaborate!
         </p>
       </div>
     </div>
@@ -34,9 +34,9 @@ layout: default
     <div class="col-md-6 mb-4">
       <div class="card h-100">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-bicycle text-primary"></i> Outdoor Recreation</h5>
+          <h5 class="card-title"><i class="bi bi-bicycle text-primary"></i> Outdoors</h5>
           <p class="card-text">
-            I really enjoy interacting with the physical landscape around our home in Missoula, MT. My favorite ways to do this are mountain biking, backcountry skiing, whitewater kayaking, and trail running. These are best enjoyed with my awesome wife and conservation scientist <a href="https://www.blackfootchallenge.org/our-team/molly-mcdevitt/">Molly McDevitt</a> and our sweet dog Barley.
+            I really enjoy interacting with the physical landscape around our home in Missoula, MT. My favorite ways to do this are mountain biking, backcountry skiing, whitewater kayaking, and hunting. These are best enjoyed with my awesome wife and conservation scientist <a href="https://www.blackfootchallenge.org/our-team/molly-mcdevitt/">Molly McDevitt</a> and our sweet doggo Barley.
           </p>
         </div>
       </div>
@@ -44,18 +44,16 @@ layout: default
     <div class="col-md-6 mb-4">
       <div class="card h-100">
         <div class="card-body">
-          <h5 class="card-title"><i class="bi bi-music-note-beamed text-primary"></i> Music</h5>
+          <h5 class="card-title"><i class="bi bi-music-note-beamed text-primary"></i> Art & Music</h5>
           <p class="card-text">
-            I make music and you might catch me playing bluegrass and swing mandolin around western Montana with <a href="https://sprucealleysally.wixsite.com/mysite">Spruce Alley Sally</a>. There's something special about live music and mountain communities.
+            I love making music and you might catch me playing bluegrass and swing mandolin or guitar around western Montana with various groups.
           </p>
         </div>
       </div>
     </div>
   </div>
-
   <figure style="margin-top: 3rem;">
-    <img src="../images/fairy1.jpg?raw=true" alt="Montana landscape">
-    <figcaption>Montana landscape where we explore and recreate</figcaption>
+    <img src="../images/fairy1.jpg?raw=true" alt="Selkirk landscape">
   </figure>
 </div>
 
@@ -64,9 +62,6 @@ layout: default
 <div class="card" style="background-color: var(--bg-light); border: none;">
   <div class="card-body">
     <h4 class="text-primary mb-3">Get in Touch</h4>
-    <p class="card-text">
-      I'm always interested in collaborations, questions about my research, or conversations about conservation, ecology, and forest management. Feel free to reach out!
-    </p>
     <p class="card-text">
       <strong>Email:</strong> <a href="mailto:daniel.perret@tnc.org">daniel.perret@tnc.org</a>
     </p>
