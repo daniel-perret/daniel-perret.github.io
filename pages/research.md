@@ -1,95 +1,114 @@
-# Research {#top}
-
-The blurbs below give a brief overview of some current and past research projects.
-
-In general terms, my work seeks to understand and predict the dramatic ways that human actions are altering the planet's ecology, with the goal of improving conservation and management outcomes. My current research leverages large-scale forest inventory data, tree-ring records, non-native species' distributions, and ecological niche theory to investigate the future of western North American forests in light of changing climatic and disturbance regimes.
-
-Up-to-date lists of my publications can be found on [Google Scholar ](https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Daniel-Perret). Please don't hesitate to reach out if you're having trouble accessing any articles!
-
-### Contents
-
-- [Climate and disturbance impacts on subalpine forests](#abla)
-- [Large-scale forest mortality detection and attribution](#ppp)
-- [Space versus time in ecological forecasting](#pipo)
-- [Tree invasions as global change experiments](#pinus)
-
+---
+layout: default
 ---
 
-## Climate and disturbance impacts on subalpine forests {#abla}
+<div class="container">
 
-<img src="../images/graphical_abstract.png?raw=true"/>
+<h1 style="text-align: center; margin-top: 2rem; margin-bottom: 1rem;">Research</h1>
 
-Using data from the USFS Forest Inventory and Analysis database, we've been investigating how climate change and changing forest disturbance regimes are impacting subalpine forest systems across the western US. Building off of the first range-wide assessment of subalpine fir status and trends, as well as work by Seidl & Turner (2022), we proposed a new framework for linking from individual tree responses to climate and disturbance through to ecosystem-level reorganization and resilience trajectories. The punchline is that fire disturbance has a far larger projected impact on subalpine forest resilience than climate change alone -- which presents interesting management opportunities in high-impact landscapes. 
+<p style="text-align: center; font-size: 1.1rem; color: var(--text-muted); max-width: 700px; margin: 0 auto 3rem;">
+My work seeks to understand and predict how human actions alter ecology, aiming to improve conservation and management. I leverage large-scale forest inventory data, tree-ring records, and ecological niche theory to investigate the future of western North American forests under changing climatic and disturbance regimes.
+</p>
 
+<p style="text-align: center; margin-bottom: 3rem;">
+<strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Daniel-Perret" target="_blank">ResearchGate</a>
+</p>
 
-**Publications**
+<hr style="margin-bottom: 3rem;">
 
-[DL Perret, DM Bell, & HSJ Zald, 2025. Reducing fire severity and extent bolsters  subalpine forest resilience to global change through key demographic pathways. Global Change Biology.](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70052)
+<!-- Research Projects Grid -->
+<div class="projects-grid">
 
-[DL Perret, DM Bell, AN Gray, JD Shaw, & HSJ Zald, 2023. Range-wide population assessments for subalpine fir indicate widespread disturbance-driven decline. Forest Ecology & Management.](https://www.sciencedirect.com/science/article/pii/S0378112723003626?via%3Dihub)
+  <!-- Project 1 -->
+  <div class="project-card">
+    <img src="../images/graphical_abstract.png?raw=true" alt="Subalpine forest research">
+    <div class="project-content">
+      <h3 class="project-title">Climate & Disturbance in Subalpine Forests</h3>
+      <p class="project-description">
+        Investigating how climate change and changing disturbance regimes impact subalpine forest systems across the western US using USFS Forest Inventory and Analysis data. Key finding: fire disturbance has far larger projected impact on forest resilience than climate change alone.
+      </p>
+      <div class="project-publications">
+        <h6>Key Publications</h6>
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70052" class="publication-link" target="_blank">
+          Perret, Bell, & Zald (2025) in Global Change Biology
+        </a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378112723003626?via%3Dihub" class="publication-link" target="_blank">
+          Perret et al. (2023) in Forest Ecology & Management
+        </a>
+      </div>
+    </div>
+  </div>
 
-[*return to top*](#top)
+  <!-- Project 2 -->
+  <div class="project-card">
+    <img src="../images/abla2.jpg?raw=true" alt="Subalpine fir mortality">
+    <div class="project-content">
+      <h3 class="project-title">Forest Mortality Detection</h3>
+      <p class="project-description">
+        Developing accurate methods for detecting past and ongoing mortality events across landscapes. Working with colleagues to co-produce workflows that integrate plot-based measurements, aerial surveys, and satellite imagery for improved monitoring and management.
+      </p>
+      <div class="project-publications">
+        <h6>Focus Areas</h6>
+        <p style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0;">
+          Large-scale disturbance attribution | Remote sensing applications | Multi-source data integration
+        </p>
+      </div>
+    </div>
+  </div>
 
----
+  <!-- Project 3 -->
+  <div class="project-card">
+    <img src="../images/fig1_112223_imagefile.png?raw=true" alt="Space-time substitution research">
+    <div class="project-content">
+      <h3 class="project-title">Space vs. Time in Forecasting</h3>
+      <p class="project-description">
+        Examining how species' growth responses to spatial climatic variation differ from responses to climate change over time. This work challenges common ecological forecasting approaches and highlights the importance of temporal data.
+      </p>
+      <div class="project-publications">
+        <h6>Key Publications</h6>
+        <a href="https://doi.org/10.1038/s41558-025-02392-0" class="publication-link" target="_blank">
+          Evans et al. (2025) in Nature Climate Change
+        </a>
+        <a href="https://www.pnas.org/doi/10.1073/pnas.2304404120" class="publication-link" target="_blank">
+          Perret, Evans, & Sax (2023) in PNAS
+        </a>
+        <a href="https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.06014" class="publication-link" target="_blank">
+          Perret & Sax (2021) in Ecography
+        </a>
+      </div>
+    </div>
+  </div>
 
-## Large-scale forest mortality detection and attribution {#ppp}
+  <!-- Project 4 -->
+  <div class="project-card">
+    <img src="../images/herbarium_image.png?raw=true" alt="Tree invasions research">
+    <div class="project-content">
+      <h3 class="project-title">Tree Invasions & Niche Biogeography</h3>
+      <p class="project-description">
+        Using naturalized tree distributions as global change "experiments" to understand species' climatic niches. Found that most naturalized pines thrive in climates beyond their native range, with interesting implications for climate change vulnerability assessments.
+      </p>
+      <div class="project-publications">
+        <h6>Key Publications</h6>
+        <a href="https://www.nature.com/articles/s41558-019-0530-9" class="publication-link" target="_blank">
+          Rosenblad, Perret, & Sax (2019) in Nature Climate Change
+        </a>
+        <a href="https://onlinelibrary.wiley.com/doi/10.1111/geb.12862" class="publication-link" target="_blank">
+          Perret, Leslie, & Sax (2019) in Global Ecology & Biogeography
+        </a>
+      </div>
+    </div>
+  </div>
 
-In 2022, US Forest Service Aerial Detection Survey (ADS) flights found massive amounts of fir mortality across more than a million acres in southern Oregon. This "Firmageddon" event has gained attention in the popular media, and highlighted the need for accurate methods for detecting past and ongoing mortality events, as well as a better understanding of landscape-scale vulnerability to future events. To this end, we are working with colleagues in Forest Health and Protection and forest managers to co-produce workflows that integrate multiple sources of information on forest mortality -- plot-based measurements, aerial surveys, and satellite imagery. The resulting data products will support further monitoring, forest management, and additional research.
+</div>
 
-<figure>
-<img src="../images/abla2.jpg?raw=true"/>
-<figcaption>Subalpine fir mortality on Bitterroot NF in Montana</figcaption>
-</figure>
+<hr style="margin: 3rem 0;">
 
-[*return to top*](#top)
+<div style="background-color: var(--bg-light); padding: 2rem; border-radius: 8px; margin-top: 3rem;">
+  <h4 class="text-primary">Media Coverage</h4>
+  <ul style="margin-bottom: 0;">
+    <li><a href="https://scitechdaily.com/dangerously-misleading-scientists-using-flawed-strategy-in-predicting-species-responses-to-climate-change">SciTech Daily</a> — Coverage of space-for-time substitution research</li>
+    <li><a href="https://news.azpm.org/p/azpmnews/2024/1/2/218603-ua-scientists-uncover-methodology-problem-in-climate-research">Arizona Public Media</a> — Methodology insights from UA research team</li>
+  </ul>
+</div>
 
----
-
-## Space versus time in ecological forecasting {#pipo}
-
-<img src="../images/fig1_112223_imagefile.png?raw=true"/>
-
-As part of my doctoral research, I collected a  new network of tree-ring data that span the climatic niche of ponderosa pine. Together with Prof. Margaret Evans at the University of Arizona and Prof. Dov Sax at Brown University, we used these data to demonstrate that the growth response of ponderosa pine to spatial climatic variation is not predictive of the species' response to climate change. In fact, the space-for-time substitution that is so common in ecological forecasting generates predictions that are directionally opposed to observed responses to recent warming. These spatial-temporal mismatches may be quite common across species, systems, and biomes, and I would love to continue exploring this in the future.
-
-Prof. Amy Angert (UBC) wrote a great commentary piece about this work that you can read [here.](https://www.pnas.org/doi/10.1073/pnas.2320424121)
-
-**Publications**
-
-[Evans, M.E.K., Adler, P.B., Angert, A.L., Dey, S.M.N., Girardin, M.P., Heilman, K.A., Klesse, S., Perret, D.L., Sax, D.F., Sheth, S.N., Stemkovski, M., Williams, J.L., 2025 Reconsidering space-for-time substitution in climate change ecology. Nature Climate Change](https://doi.org/10.1038/s41558-025-02392-0)
-
-[DL Perret, MEK Evans, & DF Sax. 2023. A species' response to spatial climatic variation does not predict its response to climate change. Proceedings of the National Academy of Science.](https://www.pnas.org/doi/10.1073/pnas.2304404120)
-
-[DL Perret & DF Sax. 2021. Evaluating alternative study designs for optimal sampling of species' climatic niches. Ecography.](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/ecog.06014)
-
-**Media coverage**
-
-[SciTech Daily](https://scitechdaily.com/dangerously-misleading-scientists-using-flawed-strategy-in-predicting-species-responses-to-climate-change)
-
-[Arizona Public Media](https://news.azpm.org/p/azpmnews/2024/1/2/218603-ua-scientists-uncover-methodology-problem-in-climate-research)
-
-<img src="../images/field_pic5.jpg?raw=true"/>
-
-
-[*return to top*](#top)
-
----
-
-## Tree invasions as global change experiments
-
-<img src="../images/herbarium_image.png?raw=true"/>
-
-When species become naturalized beyond their native range, we can gain all sorts of insight into what kinds of climatic, physical, and biotic conditions they can thrive under. Using these natural global change "experiments", we can estimate the size of species' fundamental climate niches and make predictions about which species are at risk and where. We've done this across all *Pinus* species globally, finding that most pine species that have become naturalized beyond their native range have been able to do so in climates beyond what they experience in their native range. Counterintuitively, the species with the most climatic wiggle room are those with the smallest, most-restricted native ranges -- species like Monterey pine (*P. radiata*). We've used similar methods to also show that that many island endemic conifer species are at elevated risk from climate change despite that extra climatic wiggle room.
-
-
-**Publications**
-
-[K Rosenblad, DL Perret, DF Sax. 2019. Niche syndromes reveal climate-driven extinction threat to island endemic conifers. Nature Climate Change.](https://www.nature.com/articles/s41558-019-0530-9)
-
-[DL Perret, AB Leslie, DF Sax. 2019. Naturalized distributions show that climatic disequilibrium is structured by niche size in pines. Global Ecology & Biogeography.](https://onlinelibrary.wiley.com/doi/10.1111/geb.12862)
-
-
-[*return to top*](#top)
-
----
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+</div>

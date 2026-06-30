@@ -1,12 +1,18 @@
-title: Daniel L Perret, PhD # your name (or website title) here
-logo: "/images/dperret_webpic_lowresclip.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm an applied forest ecologist, biogeographer, and dendrochronologist living and working in Missoula, MT. I'm currently a Forest Spatial Scientist with The Nature Conservancy, where I work closely with US Forest Service collaborators and others to better understand how changing climate and disturbance regimes impact North American forests and the people that depend on them.
-  <br><br>
-  Email: daniel.perret@tnc.org
-  <br><br>
+title: Daniel L Perret, PhD
+logo: "/images/dperret_webpic_lowresclip.jpg?raw=true"
+description: >
+  Forest ecologist, biogeographer, and dendrochronologist living and working in Missoula, MT.
+  Spatial Scientist with The Nature Conservancy.
 
-remote_theme: pages-themes/minimal@v0.2.0
+# Social & Contact
+email: daniel.perret@tnc.org
+github_username: daniel-perret
+google_scholar: "https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en"
+
+# Analytics
+google_analytics: UA-000000-0
+
+# Build settings
+markdown: kramdown
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-seo-tag
