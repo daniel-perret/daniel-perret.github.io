@@ -72,7 +72,7 @@ layout: default
     <div class="news-item">
       <div class="news-date">May 2026</div>
       <p>
-        Thrilled to announce that our <a href="https://www.pnas.org/doi/full/10.1073/pnas.2304404120">2024 PNAS paper</a> won the Mercer Award from the Ecological Society of America! More to come on this, but I am so grateful to my coauthors and collaborators for their contributions to this work, and to ESA for the recognition!
+        Thrilled to announce that our <a href="https://www.pnas.org/doi/full/10.1073/pnas.2304404120">2024 PNAS paper</a> won the Mercer Award from the Ecological Society of America! More to come on this, but I am so grateful to my coauthors for their guidance and vision, and to ESA for the recognition!
       </p>
     </div>
 
