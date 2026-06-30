@@ -27,6 +27,23 @@ layout: default
 
 <hr style="margin: 3rem 0;">
 
+<div class="card" style="background-color: var(--bg-light); border: none;">
+  <div class="card-body">
+    <h4 class="text-primary mb-3">Get in Touch</h4>
+    <p class="card-text">
+      <strong>Email:</strong> <a href="mailto:daniel.perret@tnc.org">daniel.perret@tnc.org</a>
+    </p>
+    <p class="card-text">
+      <strong>GitHub:</strong> <a href="https://github.com/daniel-perret" target="_blank">@daniel-perret</a>
+    </p>
+    <p class="card-text">
+      <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en" target="_blank">Profile</a>
+    </p>
+  </div>
+</div>
+
+<hr style="margin: 3rem 0;">
+
 <div class="mb-5">
   <h2 class="section-header">Outside the Office</h2>
 
@@ -58,20 +75,5 @@ layout: default
 </div>
 
 <hr style="margin: 3rem 0;">
-
-<div class="card" style="background-color: var(--bg-light); border: none;">
-  <div class="card-body">
-    <h4 class="text-primary mb-3">Get in Touch</h4>
-    <p class="card-text">
-      <strong>Email:</strong> <a href="mailto:daniel.perret@tnc.org">daniel.perret@tnc.org</a>
-    </p>
-    <p class="card-text">
-      <strong>GitHub:</strong> <a href="https://github.com/daniel-perret" target="_blank">@daniel-perret</a>
-    </p>
-    <p class="card-text">
-      <strong>Google Scholar:</strong> <a href="https://scholar.google.com/citations?user=E_yUYQkAAAAJ&hl=en" target="_blank">Profile</a>
-    </p>
-  </div>
-</div>
 
 </div>
